@@ -1,0 +1,21 @@
+body{
+    margin: 15px;
+}
+.sender{
+    text-align: right;
+    line-height: 20px;
+    font-size: 13px;
+}
+.sender ul{
+    list-style: none;
+}
+.reciever{
+    line-height: 20px;
+    font-size: 13px;
+}
+main{
+    line-height: 25px;
+}
+footer{
+    line-height: 35px;
+}
